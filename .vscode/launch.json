@@ -1,0 +1,58 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LanguageTranslationApp",
+            "request": "launch",
+            "mainClass": "LanguageTranslationApp",
+            "projectName": "SAMSUNG_1e3a948a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnalogClock",
+            "request": "launch",
+            "mainClass": "AnalogClock",
+            "projectName": "SAMSUNG_1e3a948a"
+        },
+        {
+            "type": "java",
+            "name": "SmartphoneHomeScreens_1",
+            "request": "launch",
+            "mainClass": "SmartphoneHomeScreens_1",
+            "projectName": "SAMSUNG_1e3a948a",
+            "vmArgs": "--module-path 'C:\\Bhutu Oakland University\\Java\\javafx-sdk-19.0.2.1\\lib' --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
+        },
+        {
+            "type": "java",
+            "name": "SmartphoneHomescreens",
+            "request": "launch",
+            "mainClass": "SmartphoneHomescreens",
+            "projectName": "SAMSUNG_1e3a948a"
+        },
+        {
+            "type": "java",
+            "name": "YoutubeViewer",
+            "request": "launch",
+            "mainClass": "YoutubeViewer",
+            "projectName": "SAMSUNG_1e3a948a"
+        },
+        {
+            "type": "java",
+            "name": "WeatherApp",
+            "request": "launch",
+            "mainClass": "WeatherApp",
+            "projectName": "SAMSUNG_1e3a948a",
+            "vmArgs": "--module-path 'C:\\Bhutu Oakland University\\Java\\javafx-sdk-19.0.2.1\\lib' --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web,org.json"
+        }
+    ]
+}
