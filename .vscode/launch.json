@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DrumsApp",
+            "request": "launch",
+            "mainClass": "DrumsApp",
+            "projectName": "GUITAR_FINAL_1a5a16b1",
+            "vmArgs": "--module-path 'C:\\Bhutu Oakland University\\Java\\javafx-sdk-19.0.2.1\\lib' --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GuitarApp",
+            "request": "launch",
+            "mainClass": "GuitarApp",
+            "projectName": "GUITAR_FINAL_1a5a16b1",
+            "vmArgs": "--module-path 'C:\\Bhutu Oakland University\\Java\\javafx-sdk-19.0.2.1\\lib' --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media"
+        }
+    ]
+}
