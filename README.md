@@ -1,4 +1,4 @@
-## README
+# README
 
 Project Name: MobiApps
 
@@ -6,7 +6,7 @@ Team Name: CodeCrushers
 
 Team Members: Brett Piggott & Rajdeep Mukherjee
 
-## Description of our app:
+# Description of our app:
 
 In this repository, we define the graphical user interface (GUI) of a mobile phone homescreen application coded in Java that can be launched on any laptop/computer using an IDE. The purpose of this code is to create a homescreen interface that displays a grid of icons representing various applications installed on a smartphone. Users can click on these icons to launch the corresponding applications. We have a few apps including a scientific calculcator; a graphing calculator; an app for YouTube; an app for painting on a white canvas in the form of Pixel art and a music app that opens up windows for playing the paino, guitar or drums.
 
@@ -14,12 +14,12 @@ The purpose of building an app that represents a smartphone screen with built-in
 
 We plan on collaborating with each other and honing in our efforts together for establishing the homescreen of a modern-day smartphone and building apps on it. Currently, we have multiple different apps and we are expanding our base and connecting all of them together. We are open to collaborate with other creators if they want to join us in our project. We will be working on the various different applications within this "mega app" and integrating them together for as much of a seamless flow as possible.
 
-## Instruction on how to use our app:
+# Instruction on how to use our app:
 
-# Initial steps:
+#3 Initial steps:
 1) Clone the repository into your computer using any IDE you prefer
 2) Import the JavaFX modules as refernce libraries
 3) Run the code either using Powershell, Debugger or the Run button after launch(args)
 
-# Running different codes for our apps:
+## Running different codes for our apps:
 ## Home Screen
