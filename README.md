@@ -50,9 +50,8 @@ Open the DrumsApp.java file as found under the src folder in Drums and Guitar br
 
 ### Calculator app
 Open the Calculator.java file as found under the src folder in master branch and run it. It will launch the GUI for a scientific calculator that is able to perform addition, subtraction, trignometric ratios, inverse trignometric, logarithmic, etc. Click on the buttons to perform whichever function you want to.
-![image](https://user-images.githubusercontent.com/118029454/232187020-1b3b70c9-7bf6-430a-9933-6cc9766cea30.png)
+![image](https://user-images.githubusercontent.com/118029454/232187044-07c326b4-8bc9-42e8-9c38-2e1fdecaedfd.png)
 
 ### Graphing calculator app
 Open the calc.java file as found under the src folder in master branch and run it. It will launch the GUI for a graphing calculator that is able to graph out functions based on the equation entered as is displayed in the window as bounded by XMin and XMax for X-axis and YMax and YMin for Y-axis. Currently it is set for a scatter plot but it can be changed if you so desire by replacing scatterchart with linechart throughout.
-![image](https://user-images.githubusercontent.com/118029454/232187044-07c326b4-8bc9-42e8-9c38-2e1fdecaedfd.png)
-
+![image](https://user-images.githubusercontent.com/118029454/232187020-1b3b70c9-7bf6-430a-9933-6cc9766cea30.png)
