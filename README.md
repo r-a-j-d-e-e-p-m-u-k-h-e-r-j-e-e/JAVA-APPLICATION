@@ -26,4 +26,19 @@ We plan on collaborating with each other and honing in our efforts together for 
 Once you have successfully cloned the repo into your IDE and the program is set, go to the file named SmartphoneHomeScreen_1.java file and run it. It will open up the Home Screen display containing all the buttons to access the different apps.
 
 ### YouTube app
-Open the Youtubeviewer.java file as found under the main branch src folder and run it. It shoudl open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
+Open the Youtubeviewer.java file as found under the main branch src folder and run it. It should open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
+
+### PixelArt app
+Open the paint.java file as found under the main branch src folder and run it. It should open up a white canvas with options to change the colour, thickness of the pixel 'brush', shape and their thickness. You can now draw your masterpiece and can even save it onto a file of your choice.
+
+### MusicalInstruments app
+Open the MusicalInstruments.java file as found under the  src folder in Music branch and run it. It will launch a window with three musical instruments you can choose to play. Clicking on anyone of the buttons will cause the launching of that instrument's GUI.
+
+### Piano app GUI
+Open the piano.java file as found under the src folder in Music branch and run it. It will launch a GUI that represents a virtual piano. Clicking on the white and black keys will make the respective sound of that key.
+
+### Guitar app GUI
+Open the GuitarApp.java file as found under the src folder in Drums and Guitar branch and run it. It will launch a GUI that represents a virtual guitar fretboard. Upon expanding the window, you can see the different buttons for the various chords. The buttons are intended to be layed over the fretboard so that they represent the sound note of a guitarist holding that string at different points. Clicking on the respective buttons will generate the corresponding music for it.
+
+### Drums app GUI
+Open the DrumsApp.java file as found under the src folder in Drums and Guitar branch and run it. It will launch a GUI that represents a virtual drum set. You can see the different buttons for the various different parts of a drum set. Clicking on the respective buttons will generate the corresponding music for it.
