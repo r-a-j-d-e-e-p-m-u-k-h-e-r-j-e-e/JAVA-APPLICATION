@@ -6,7 +6,7 @@ Team Name: CodeCrushers
 
 Team Members: Brett Piggott & Rajdeep Mukherjee
 
-**Description of our app:**
+## Description of our app:
 
 In this repository, we define the graphical user interface (GUI) of a mobile phone homescreen application coded in Java that can be launched on any laptop/computer using an IDE. The purpose of this code is to create a homescreen interface that displays a grid of icons representing various applications installed on a smartphone. Users can click on these icons to launch the corresponding applications. We have a few apps including a scientific calculcator; a graphing calculator; an app for YouTube; an app for painting on a white canvas in the form of Pixel art and a music app that opens up windows for playing the paino, guitar or drums.
 
