@@ -1,4 +1,4 @@
-**README**
+## README
 
 Project Name: MobiApps
 Team Name: CodeCrushers
