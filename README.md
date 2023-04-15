@@ -23,10 +23,12 @@ We plan on collaborating with each other and honing in our efforts together for 
 
 ## Running different codes for our apps:
 ### Home Screen
-Once you have successfully cloned the repo into your IDE and the program is set, go to the file named SmartphoneHomeScreen_1.java file and run it. It will open up the Home Screen display containing all the buttons to access the different apps.
+Once you have successfully cloned the repo into your IDE and the program is set, go to the file named SmartphoneHomeScreens_1.java file and run it. It will open up the Home Screen display containing all the buttons to access the different apps.
+![image](https://user-images.githubusercontent.com/118029454/232185373-805d759b-f50a-4e91-9af3-a15f2c92d3c5.png)
 
 ### YouTube app
 Open the Youtubeviewer.java file as found under the main branch src folder and run it. It should open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
+
 
 ### PixelArt app
 Open the paint.java file as found under the main branch src folder and run it. It should open up a white canvas with options to change the colour, thickness of the pixel 'brush', shape and their thickness. You can now draw your masterpiece and can even save it onto a file of your choice.
@@ -49,4 +51,3 @@ Open the Calculator.java file as found under the src folder in master branch and
 ### Graphing calculator app
 Open the calc.java file as found under the src folder in master branch and run it. It will launch the GUI for a graphing calculator that is able to graph out functions based on the equation entered as is displayed in the window as bounded by XMin and XMax for X-axis and YMax and YMin for Y-axis. Currently it is set for a scatter plot but it can be changed if you so desire by replacing scatterchart with linechart throughout.
 
-![image](https://user-images.githubusercontent.com/118029454/232185197-3e805e05-e643-46e4-89c5-f8f90489df76.png)
