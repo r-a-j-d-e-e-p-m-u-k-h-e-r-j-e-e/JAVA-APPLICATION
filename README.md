@@ -48,3 +48,5 @@ Open the Calculator.java file as found under the src folder in master branch and
 
 ### Graphing calculator app
 Open the calc.java file as found under the src folder in master branch and run it. It will launch the GUI for a graphing calculator that is able to graph out functions based on the equation entered as is displayed in the window as bounded by XMin and XMax for X-axis and YMax and YMin for Y-axis. Currently it is set for a scatter plot but it can be changed if you so desire by replacing scatterchart with linechart throughout.
+
+![image](https://user-images.githubusercontent.com/118029454/232185197-3e805e05-e643-46e4-89c5-f8f90489df76.png)
