@@ -1,7 +1,9 @@
 ## README
 
 Project Name: MobiApps
+
 Team Name: CodeCrushers
+
 Team Members: Brett Piggott & Rajdeep Mukherjee
 
 **Description of our app:**
