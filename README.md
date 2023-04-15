@@ -20,3 +20,6 @@ We plan on collaborating with each other and honing in our efforts together for 
 1) Clone the repository into your computer using any IDE you prefer
 2) Import the JavaFX modules as refernce libraries
 3) Run the code either using Powershell, Debugger or the Run button after launch(args)
+
+# Running different codes for our apps:
+## Home Screen
