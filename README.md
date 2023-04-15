@@ -27,27 +27,32 @@ Once you have successfully cloned the repo into your IDE and the program is set,
 ![image](https://user-images.githubusercontent.com/118029454/232185373-805d759b-f50a-4e91-9af3-a15f2c92d3c5.png)
 
 ### YouTube app
-Open the Youtubeviewer.java file as found under the main branch src folder and run it. It should open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
-
+Open the YoutubeViewer.java file as found under the main branch src folder and run it. It should open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
 
 ### PixelArt app
 Open the paint.java file as found under the main branch src folder and run it. It should open up a white canvas with options to change the colour, thickness of the pixel 'brush', shape and their thickness. You can now draw your masterpiece and can even save it onto a file of your choice.
+![image](https://user-images.githubusercontent.com/118029454/232187434-3ca19baa-0c1e-4a87-9d42-3023bb84d51e.png)
 
 ### MusicalInstruments app
 Open the MusicalInstruments.java file as found under the  src folder in Music branch and run it. It will launch a window with three musical instruments you can choose to play. Clicking on anyone of the buttons will cause the launching of that instrument's GUI.
+![image](https://user-images.githubusercontent.com/118029454/232187091-005d3792-8012-4cc6-8ac4-ff0671acaca4.png)
 
 ### Piano app GUI
 Open the piano.java file as found under the src folder in Music branch and run it. It will launch a GUI that represents a virtual piano. Clicking on the white and black keys will make the respective sound of that key.
 
 ### Guitar app GUI
 Open the GuitarApp.java file as found under the src folder in Drums and Guitar branch and run it. It will launch a GUI that represents a virtual guitar fretboard. Upon expanding the window, you can see the different buttons for the various chords. The buttons are intended to be layed over the fretboard so that they represent the sound note of a guitarist holding that string at different points. Clicking on the respective buttons will generate the corresponding music for it.
+![image](https://user-images.githubusercontent.com/118029454/232187283-60910005-017f-4494-82b5-bd3aac82ed54.png)
 
 ### Drums app GUI
 Open the DrumsApp.java file as found under the src folder in Drums and Guitar branch and run it. It will launch a GUI that represents a virtual drum set. You can see the different buttons for the various different parts of a drum set. Clicking on the respective buttons will generate the corresponding music for it.
+![image](https://user-images.githubusercontent.com/118029454/232187253-1ee1d460-0778-4b83-8527-e1ed3ff1103d.png)
 
 ### Calculator app
 Open the Calculator.java file as found under the src folder in master branch and run it. It will launch the GUI for a scientific calculator that is able to perform addition, subtraction, trignometric ratios, inverse trignometric, logarithmic, etc. Click on the buttons to perform whichever function you want to.
+![image](https://user-images.githubusercontent.com/118029454/232187020-1b3b70c9-7bf6-430a-9933-6cc9766cea30.png)
 
 ### Graphing calculator app
 Open the calc.java file as found under the src folder in master branch and run it. It will launch the GUI for a graphing calculator that is able to graph out functions based on the equation entered as is displayed in the window as bounded by XMin and XMax for X-axis and YMax and YMin for Y-axis. Currently it is set for a scatter plot but it can be changed if you so desire by replacing scatterchart with linechart throughout.
+![image](https://user-images.githubusercontent.com/118029454/232187044-07c326b4-8bc9-42e8-9c38-2e1fdecaedfd.png)
 
