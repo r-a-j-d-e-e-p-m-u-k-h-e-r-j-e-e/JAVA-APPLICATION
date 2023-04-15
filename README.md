@@ -16,14 +16,14 @@ We plan on collaborating with each other and honing in our efforts together for 
 
 # Instruction on how to use our app:
 
-#3 Initial steps:
+### Initial steps:
 1) Clone the repository into your computer using any IDE you prefer
 2) Import the JavaFX modules as refernce libraries
 3) Run the code either using Powershell, Debugger or the Run button after launch(args)
 
 ## Running different codes for our apps:
-## Home Screen
+### Home Screen
 Once you have successfully cloned the repo into your IDE and the program is set, go to the file named SmartphoneHomeScreen_1.java file and run it. It will open up the Home Screen display containing all the buttons to access the different apps.
 
-## YouTube app
+### YouTube app
 Open the Youtubeviewer.java file as found under the main branch src folder and run it. It shoudl open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
