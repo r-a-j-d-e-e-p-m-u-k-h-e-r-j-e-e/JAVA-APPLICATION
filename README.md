@@ -42,3 +42,9 @@ Open the GuitarApp.java file as found under the src folder in Drums and Guitar b
 
 ### Drums app GUI
 Open the DrumsApp.java file as found under the src folder in Drums and Guitar branch and run it. It will launch a GUI that represents a virtual drum set. You can see the different buttons for the various different parts of a drum set. Clicking on the respective buttons will generate the corresponding music for it.
+
+### Calculator app
+Open the Calculator.java file as found under the src folder in master branch and run it. It will launch the GUI for a scientific calculator that is able to perform addition, subtraction, trignometric ratios, inverse trignometric, logarithmic, etc. Click on the buttons to perform whichever function you want to.
+
+### Graphing calculator app
+Open the calc.java file as found under the src folder in master branch and run it. It will launch the GUI for a graphing calculator that is able to graph out functions based on the equation entered as is displayed in the window as bounded by XMin and XMax for X-axis and YMax and YMin for Y-axis. Currently it is set for a scatter plot but it can be changed if you so desire by replacing scatterchart with linechart throughout.
