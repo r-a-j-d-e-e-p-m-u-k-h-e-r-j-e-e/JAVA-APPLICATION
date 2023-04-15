@@ -23,3 +23,7 @@ We plan on collaborating with each other and honing in our efforts together for 
 
 ## Running different codes for our apps:
 ## Home Screen
+Once you have successfully cloned the repo into your IDE and the program is set, go to the file named SmartphoneHomeScreen_1.java file and run it. It will open up the Home Screen display containing all the buttons to access the different apps.
+
+## YouTube app
+Open the Youtubeviewer.java file as found under the main branch src folder and run it. It shoudl open up YouTube app using Java webbrowser. It is important that you have internet connection while running this code.
