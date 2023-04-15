@@ -14,4 +14,9 @@ The purpose of building an app that represents a smartphone screen with built-in
 
 We plan on collaborating with each other and honing in our efforts together for establishing the homescreen of a modern-day smartphone and building apps on it. Currently, we have multiple different apps and we are expanding our base and connecting all of them together. We are open to collaborate with other creators if they want to join us in our project. We will be working on the various different applications within this "mega app" and integrating them together for as much of a seamless flow as possible.
 
-**NOTE: Instruction manual for the application is included within the files above**
+## Instruction on how to use our app:
+
+# Initial steps:
+1) Clone the repository into your computer using any IDE you prefer
+2) Import the JavaFX modules as refernce libraries
+3) Run the code either using Powershell, Debugger or the Run button after launch(args)
